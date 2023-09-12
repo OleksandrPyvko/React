@@ -13,52 +13,16 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
+      "cityName": "Herrera del Duque",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2023-09-12T08:29:20.167Z",
+      "notes": "wdfas",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "39.16839998800286",
+        "lng": "-5.034484863281251"
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-07T13:32:02.348Z",
-      "notes": "asd",
-      "position": {
-        "lat": "39.99369266969988",
-        "lng": "0.005321502685546876"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Sidi Naamane",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-09-07T13:35:56.502Z",
-      "notes": "sdgf",
-      "position": {
-        "lat": "36.27970720524017",
-        "lng": "3.0761718750000004"
-      },
-      "id": 98443199
+      "id": 73930386
     }
   ]
 }
